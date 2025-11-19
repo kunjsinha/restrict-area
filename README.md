@@ -1,1 +1,1 @@
-Currently only line and shape drawing feature exists
+## Project has been discontinued/Saved for later
